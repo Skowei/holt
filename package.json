@@ -1,16 +1,16 @@
 {
-  "name": "@tlscipher/holt",
+  "name": "@skowei/holt",
   "version": "1.2.0",
   "description": "A highly configurable logger middleware for ElysiaJS.",
   "type": "module",
   "author": {
-    "url": "https://github.com/mehtaabGill",
-    "email": "hello@mehtaab.dev",
-    "name": "Mehtaab Gill"
+    "url": "https://github.com/skowei",
+    "email": "macieiskowronski@gmail.com",
+    "name": "Maciej Skowroński"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehtaabGill/holt"
+    "url": "https://github.com/skowei/holt"
   },
   "private": false,
   "keywords": [
@@ -20,10 +20,10 @@
     "middleware",
     "elysiaJS",
     "holt",
-    "tlscipher"
+    "skowei"
   ],
-  "homepage": "https://github.com/mehtaabGill/holt",
-  "bugs": "https://github.com/mehtaabGill/holt/issues",
+  "homepage": "https://github.com/skowei/holt",
+  "bugs": "https://github.com/skowei/holt/issues",
   "main": "./dist/src/index.js",
   "module": "./dist/src/index.js",
   "exports": {
